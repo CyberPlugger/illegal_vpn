@@ -1,6 +1,6 @@
 Я не несу ответственность за нагрузку серверов.
 
-![logo](logo.png)
+![logo](logo169.png)
 
 # Illegal VPN
 
